@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <default sync-j="2"/>
+
+  <remote name="CAF" fetch="https://github.com/nxp-imx"/>
+
+  <project name="imx-manifest" path="sources/imx-manifest" remote="CAF" revision="a360da4012acacec3b6ae3b2372789eb3604aeab" upstream="imx-linux-langdale">
+
+    <linkfile src="README.md" dest="README-yyy"/>
+  </project>
+
+</manifest>
